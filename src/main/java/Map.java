@@ -56,7 +56,7 @@ public class Map {
             "",
             "",
             "",
-            false);
+            true);
     Room room5 = new Room(
             "",
             "",
@@ -80,7 +80,7 @@ public class Map {
             "",
             "",
             "",
-            false);
+            true);
     Room room9 = new Room(
             "",
             "",
@@ -104,7 +104,7 @@ public class Map {
             "",
             "",
             "",
-            false);
+            true);
     Room room13 = new Room(
             "",
             "",
@@ -122,7 +122,7 @@ public class Map {
             "",
             "",
             "",
-            false);
+            true);
     Room room16 = new Room(
             "",
             "",
@@ -146,7 +146,7 @@ public class Map {
             "",
             "",
             "",
-            false);
+            true);
     Room room20 = new Room(
             "",
             "",
